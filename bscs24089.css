@@ -1,0 +1,47 @@
+.first-div {
+    width: 500px;
+    height: 500px;
+    background-color: rgb(204, 167, 124);
+    border-width: 3px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    border-radius: 20%;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.normal-para {
+    color: green;
+}
+
+#fav-para {
+    color: purple;
+}
+.content-center {
+    width: 80%; 
+    max-width: 800px; 
+    margin: 0 auto; 
+    text-align: center; 
+}
+
+img{
+    border-radius: 10px;
+}
+
+ol{
+    list-style-type: upper-roman;
+    list-style-position: inside;
+}
+
+ul{
+    list-style-type: square;
+    list-style-position: inside;
+}
