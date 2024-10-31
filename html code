@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    link rel="stylesheet" href="bscs24089.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>BSCS24089(Lab9)</title>
+<link rel="stylesheet" href="bscs24089.css">
+</head>
+<body>
+    <div class="content-center">
+    <h1><b>Task_2: Personal information</b></h1>
+<h3><b>Name: </b></h3><p>Riyan ahmed</p>
+<h3><b>Roll No: </b></h3><p><i>BSCS24089</i></p>
+<h3><b>Subject: </b></h3><p><u>Application of ICT</u></p>
+<h1><b>Task_3: Picture</b></h1>
+<a href="https://www.google.com/"><img src="Pic.jpg" width="500" height="600"></a>
+<a href="https://www.google.com/search?client=opera&hs=i46&sca_esv=3b148beed6385c63&sxsrf=ADLYWIJBBFK_dYjb53gaCj3_c2v-RmAZsQ:1730350215356&q=pictures&udm=2&fbs=AEQNm0Aa4sjWe7Rqy32pFwRj0UkWd8nbOJfsBGGB5IQQO6L3J_86uWOeqwdnV0yaSF-x2jon2iao6KWCaVjfn7ahz_sf_uPKlBgHiXUTxuTOrBgkEHAZKBArNMIg_JaUOYCTVNreNhAlJbFKEmzPuAQkoiBtIhrPYKQR3WHGzgZYwxf2NkHIa-s&sa=X&ved=2ahUKEwjLjrHv6LeJAxVo4QIHHY_xGBAQtKgLegQIFBAB&biw=1364&bih=680#vhid=c_k0XZB-zd8bBM&vssid=mosaic" ></a><br>
+<a href="https://mail.google.com/" target="_blank">Visit G-mail</a>
+<ol>
+    <h1><b>Task_4: Ordered and Unordered List</b></h1>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+</ol>
+    <ul>
+        <li>Frontend Development</li>
+        <li>Backend Development</li>
+        <li>Full-Stack Development</li>
+    </ul>
+    <h1><b>Task_5: styled Div </b></h1>
+    <div class="box"><div class="first-div">
+        <p>What is Information and technology communication </p>
+        <p>what is life?</p>
+        <p>what is the purpose of life?</p>
+        <p>why are we here?</p>
+    </div></div>
+    <h1><b>Task_6: Favorite Topic</b></h1>
+    <p class="normal-para">I love traveling to new places and experiencing different cultures.</p>
+    <p class="normal-para">My dream destination is Japan, where I can see beautiful temples and cherry blossoms.</p>
+    <p class="normal-para">Exploring new cuisines is another exciting part of travel.</p>
+    <p class="normal-para">I enjoy meeting new people and learning about their traditions and ways of life.</p>
+    <p class="normal-para" id="fav-para">One day, I hope to travel the world and make unforgettable memories.</p>
+</div>
+</body>
+</html>
